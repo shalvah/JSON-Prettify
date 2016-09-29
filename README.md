@@ -5,6 +5,7 @@ JSON-Prettify inserts newlines and tabs (4 spaces, actually) as appropriate to m
 Useful for when you have to work with JSON REST APIs
 
 App live at: http://json-prettify.herokuapp.com/
+Pull requesrs, issues, suggestions are welcome!
 
 # Features:
 * Enter or paste a json string or upload a json file
@@ -164,3 +165,4 @@ App live at: http://json-prettify.herokuapp.com/
         "offset":0
         }
     }</pre>
+
